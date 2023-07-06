@@ -1,3 +1,5 @@
+"use strict";
+
 // Output Elements
 const resultDay = document.querySelector(".output-day");
 const resultMonth = document.querySelector(".output-month");
